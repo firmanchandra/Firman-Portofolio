@@ -1,12 +1,7 @@
 import {
-    Backend_skill,
     Database,
     Frameworks,
-    Frontend_skill,
-    Full_stack,
-    Other_skill,
     Programming_Language,
-    Skill_data,
     Software_Skill,
   } from "@/constants";
   import React from "react";
