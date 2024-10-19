@@ -17,7 +17,7 @@ const Educations = () => {
               description="2017 - 2021"
             />
             <ProjectCard
-              src="/feb.jpg"
+              src="/feb2.jpg"
               title="Telkom University - Magister Management of Business"
               description="2024- 2025"
             />

@@ -64,7 +64,7 @@ const Experiences = () => {
 
           <div className="text-align: text-justify h-full w-full flex flex-col md:flex-row gap-10 px-10">
             <ProjectCard
-              src="/hmtt.jpg"
+              src="/hmtt2.jpg"
               title="Himpunan Mahasiswa Teknik Telekomunikasi - Member"
               description="2017 - 2021"
             />
@@ -86,7 +86,7 @@ const Experiences = () => {
               description="2020 - 2021"
             />
             <ProjectCard
-              src="/mobcom.jpg"
+              src="/mobcom2.jpg"
               title="Mobile Communication Laboratory - Ressearch Group"
               description="2019 - 2020"
             />
