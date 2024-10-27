@@ -12,12 +12,12 @@ const Educations = () => {
           </h1>
           <div className="text-align: text-justify h-full w-full flex flex-col md:flex-row gap-10 px-10">
             <ProjectCard
-              src="/fte.jpg"
+              src="/fte.png"
               title="Telkom University - Bachelor of Telecommunication Engineering"
               description="2017 - 2021"
             />
             <ProjectCard
-              src="/feb2.jpg"
+              src="/feb.png"
               title="Telkom University - Magister Management of Business"
               description="2024- 2025"
             />

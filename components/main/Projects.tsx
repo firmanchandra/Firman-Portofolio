@@ -12,7 +12,7 @@ const Projects = () => {
       </h1>
       <div className="h-full w-full flex flex-col md:flex-row gap-10 px-10">
         <ProjectCard
-          src="/movin.jpg"
+          src="/movin.png"
           title="Movin"
           description="Bank Mandiri Taspen"
         />
@@ -32,7 +32,7 @@ const Projects = () => {
           description="Bank Mandiri Taspen"
         />
         <ProjectCard
-          src="/lms.jpg"
+          src="/mantapcashmanagement.png"
           title="Mantap Cash Management"
           description="Bank Mandiri Taspen"
         />
@@ -45,12 +45,12 @@ const Projects = () => {
           description="Bank Mandiri Taspen"
         />
         <ProjectCard
-          src="/qrisacquirer.jpg"
+          src="/qrisacquirer.png"
           title="QRIS Acquirer"
           description="Bank Mandiri Taspen"
         />
         <ProjectCard
-          src="/soa.jpg"
+          src="/soa.png"
           title="Services Oriented Architecture"
           description="Bank Mandiri Taspen"
         />
@@ -72,7 +72,7 @@ const Projects = () => {
           description="Bank Mandiri Taspen"
         />
         <ProjectCard
-          src="/estatment.png"
+          src="/estatement.png"
           title="E-Statement"
           description="Bank Mandiri Taspen"
         />
@@ -85,22 +85,22 @@ const Projects = () => {
 
       <div className="h-full w-full flex flex-col md:flex-row gap-10 px-10">
         <ProjectCard
-          src="/simibi.jpg"
+          src="/simibi.png"
           title="System Inventory Management"
           description="Bank Indonesia"
         />
         <ProjectCard
-          src="/sitescope.jpg"
+          src="/sitescope.png"
           title="Site Scope"
           description="Bank Indonesia"
         />
         <ProjectCard
-          src="/obm.jpg"
+          src="/obm.png"
           title="Operation Bridge Manager"
           description="Bank Indonesia"
         />
         <ProjectCard
-          src="/bvd.jpg"
+          src="/bvd.png"
           title="Business Value Dashboard"
           description="Bank Indonesia"
         />
@@ -112,7 +112,7 @@ const Projects = () => {
           description="Bank Indonesian"
         />
         <ProjectCard
-          src="/nnmi.jpg"
+          src="/nnmi.png"
           title="Network Node Manager Interface"
           description="Bank Indonesia"
         />
@@ -125,7 +125,7 @@ const Projects = () => {
 
       <div className="h-full w-full flex flex-col md:flex-row gap-10 px-10">
         <ProjectCard
-          src="/sdwan.jpeg"
+          src="/sdwan.png"
           title="SDWAN"
           description="Sisindokom Lintasbuana"
         />
@@ -135,7 +135,7 @@ const Projects = () => {
           description="Sisindokom Lintasbuana"
         />
         <ProjectCard
-          src="/vpn.jpg"
+          src="/vpn.png"
           title="VPN"
           description="Sisindokom Lintasbuana"
         />
@@ -143,12 +143,12 @@ const Projects = () => {
 
       <div className="h-full w-full flex flex-col md:flex-row gap-10 px-10">
         <ProjectCard
-          src="/smartparkinggate.jpg"
+          src="/smartparkinggate.png"
           title="Smart Parking Gate"
           description="Bandung Techno Park"
         />
         <ProjectCard
-          src="/mobileapproboticthermal.jpg"
+          src="/mobileapproboticthermal.png"
           title="Mobile Application Thermal Imaging and Face Recogniton"
           description="Bandung Techno Park"
         />
@@ -158,7 +158,7 @@ const Projects = () => {
           description="Bandung Techno Park"
         />
         <ProjectCard
-          src="/roboticthermal.jpg"
+          src="/roboticthermal.png"
           title="Robotic Thermal Imaging and Face Recogniton"
           description="Bandung Techno Park"
         />
@@ -171,7 +171,7 @@ const Projects = () => {
           description="Telkom Unviversity"
         />
         <ProjectCard
-          src="/objectfollower.jpg"
+          src="/objectfollower.png"
           title="Object Follower FA-1"
           description="Telkom Unviversity"
         />
@@ -188,7 +188,7 @@ const Projects = () => {
           description="Telkom Unviversity"
         />
         <ProjectCard
-          src="/dronefca.jpg"
+          src="/dronefca.png"
           title="Drone FCA-2000"
           description="Telkom Unviversity"
         />
