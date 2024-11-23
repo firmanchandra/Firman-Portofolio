@@ -52,11 +52,11 @@ const HeroContent = () => {
           className="text-align: text-justify text-lg text-gray-400 my-5 max-w-[600px]"
           
         >
-          Hi, I&apos;m Firman Chandra Alamsyah a Business Intelligence,
-          As a dedicated professional in the banking industry and ICT company, 
-          I have been at the forefront of building and maintaining business data collection, 
-          storage, and analysis processes to help companies make better decisions to use as business leads for the company.
-          Has been the best in leading, managing and monitoring projects and ensuring company targets are achieved and good relationships are created with stakeholders.
+          Hi, I&apos;m Firman Chandra Alamsyah a Project Management & Full Stack Developer.
+          As a dedicated professional in the banking industry and ICT company,
+          I have been at the forefront of creating and developing innovations in technology products that have high functional value. 
+          Building and maintaining the process of collecting, storing, and analyzing business data to help companies make better decisions to be used as business leaders for the company. 
+          Have been the best in leading, managing and monitoring projects and ensuring company targets are achieved and good relationships are created with stakeholders.
           Passionate about continuous improvement, I thrive on solving complex challenges and pushing the boundaries of what can achieve in the financial and technology sector.
         </motion.p>
         <motion.a
